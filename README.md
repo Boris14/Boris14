@@ -11,7 +11,7 @@ Passionate developer who believes that the best games come from teamwork. Dedica
 ---
 
 ## 💼 Work Experience
-### Gameplay Programmer, Kipi Interactive (2021 – 2025)
+### Gameplay Programmer, Kipi Interactive (2021 – present)
 - Developed fast-paced action games using Unreal Engine, including [Cryowar](https://www.cryowar.com/) and an unannounced project.
 - Contributed to gameplay systems: aiming mechanics, spawning systems, and ability implementation via the GAS plugin.
 - Collaborated on UI, animation, AI, and other gameplay-related tasks in a cross-functional team.
