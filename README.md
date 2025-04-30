@@ -1,8 +1,3 @@
-# Boris Dimitrov
-**Game Programmer**
-
----
-
 ## 📖 Profile
 Passionate developer who believes that the best games come from teamwork. Dedicated to collaborating with a team to help create something exceptional.
 
@@ -41,14 +36,5 @@ Passionate developer who believes that the best games come from teamwork. Dedica
 - Sports: running, ski mountaineering, and swimming
 - Participating in game jams with friends
 - Supporting the local game development community
-
----
-
-## 📫 Contact
-- **Email:** boris1234dimitrov@gmail.com
-- **Phone:** +359 888 76 6109
-- **Location:** Sofia, Bulgaria
-- **LinkedIn:** [boris-dimitrov-02](https://www.linkedin.com/in/boris-dimitrov-02/)
-- **Instagram:** [boris.r.d](https://www.instagram.com/boris.r.d/)
 
 
