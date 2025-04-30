@@ -37,4 +37,6 @@ Passionate developer who believes that the best games come from teamwork. Dedica
 - Participating in game jams with friends
 - Supporting the local game development community
 
+---
 
+### [My CV](https://drive.google.com/file/d/1ntVp7Xq0_S0x7RYJ0NbjSwjLwksDDGAZ/view?usp=sharing)
